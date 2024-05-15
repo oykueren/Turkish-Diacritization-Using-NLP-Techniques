@@ -59,7 +59,7 @@ To run the project, follow these steps:
 
 2. Install the required dependencies:
     ```bash
-pip install -r requirements.txt
+   pip install -r requirements.txt
 
 3. Run the Jupyter notebooks to preprocess the data, train the model, and evaluate the performance: \\
 jupyter notebook final.ipynb \\
