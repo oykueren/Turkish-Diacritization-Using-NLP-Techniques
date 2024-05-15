@@ -78,7 +78,8 @@ The project requires the following libraries:
 - pandas
 - numpy
 - unidecode
-- Install the dependencies using the requirements.txt file provided in the repository.
+
+Install the dependencies using the requirements.txt file provided in the repository.
 
 ## Authors
 - Öykü Eren
