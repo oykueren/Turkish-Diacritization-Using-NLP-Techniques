@@ -24,6 +24,7 @@ Preprocessing steps include:
 ## Model
 
 The model is implemented using PyTorch and includes:
+- Transformer-based embeddings to provide rich contextual representations.
 - An LSTM layer to capture sequential dependencies.
 - A CRF layer to model the sequence labeling task.
 
@@ -60,8 +61,8 @@ To run the project, follow these steps:
     ```bash
 pip install -r requirements.txt
 
-3. Run the Jupyter notebooks to preprocess the data, train the model, and evaluate the performance: \\
-jupyter notebook final.ipynb \\
+3. Run the Jupyter notebooks to preprocess the data, train the model, and evaluate the performance:
+jupyter notebook final.ipynb
 jupyter notebook metrics.ipynb
 
 # Dependencies
