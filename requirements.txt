@@ -1,0 +1,6 @@
+torch
+transformers
+zemberek-python
+pandas
+numpy
+unidecode

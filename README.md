@@ -24,7 +24,6 @@ Preprocessing steps include:
 ## Model
 
 The model is implemented using PyTorch and includes:
-- Embeddings to represent characters.
 - An LSTM layer to capture sequential dependencies.
 - A CRF layer to model the sequence labeling task.
 
@@ -58,6 +57,7 @@ To run the project, follow these steps:
 
 
 2. Install the required dependencies:
+    ```bash
 pip install -r requirements.txt
 
 3. Run the Jupyter notebooks to preprocess the data, train the model, and evaluate the performance:
