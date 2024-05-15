@@ -6,6 +6,9 @@ This project aims to perform diacritization for the Turkish language using vario
 
 - **final.ipynb**: Contains the main code for data preprocessing, model training, and evaluation.
 - **metrics.ipynb**: Contains the code for calculating and evaluating different performance metrics for the diacritization model.
+- **wrong_words.csv**: Contains two columns, `label` and `predictions`, with miss-predicted words.
+- **predictions.csv**: Contains two columns, `ID` and `Sentence`, with all predictions.
+- **best.pth**: The weights file that contains the best resulting model weights.
 
 ## Dataset
 
