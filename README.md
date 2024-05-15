@@ -60,8 +60,8 @@ To run the project, follow these steps:
     ```bash
 pip install -r requirements.txt
 
-3. Run the Jupyter notebooks to preprocess the data, train the model, and evaluate the performance:
-jupyter notebook final.ipynb
+3. Run the Jupyter notebooks to preprocess the data, train the model, and evaluate the performance: \\
+jupyter notebook final.ipynb \\
 jupyter notebook metrics.ipynb
 
 # Dependencies
