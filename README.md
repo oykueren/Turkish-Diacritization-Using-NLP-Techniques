@@ -38,10 +38,11 @@ The training process involves:
 ## Evaluation Metrics
 
 Several metrics are calculated to evaluate the performance of the diacritization model, including:
-- Character-level accuracy
 - Word-level accuracy
 - Diacritization Error Rate (DER)
-- Word Error Rate (WER)
+- Precision
+- Recall
+- F1 Score
 
 ## Results
 
