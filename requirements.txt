@@ -1,6 +1,9 @@
-torch
-transformers
-zemberek-python
-pandas
-numpy
 unidecode
+numpy
+pandas
+torch
+pytorch-crf
+tqdm
+scikit-learn
+zemberek-python
+vngrs-nlp

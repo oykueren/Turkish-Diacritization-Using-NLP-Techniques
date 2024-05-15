@@ -70,7 +70,7 @@ jupyter notebook final.ipynb
 jupyter notebook metrics.ipynb
 
 # Dependencies
-The project requires the following libraries:
+The project requires the following libraries and works with Python 3.11:
 
 - PyTorch
 - Transformers
