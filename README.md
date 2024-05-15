@@ -73,7 +73,6 @@ jupyter notebook metrics.ipynb
 The project requires the following libraries and works with Python 3.11:
 
 - PyTorch
-- Transformers
 - zemberek-python
 - pandas
 - numpy
