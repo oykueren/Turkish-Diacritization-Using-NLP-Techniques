@@ -39,10 +39,11 @@ The training process involves:
 ## Evaluation Metrics
 
 Several metrics are calculated to evaluate the performance of the diacritization model, including:
-- Character-level accuracy
 - Word-level accuracy
 - Diacritization Error Rate (DER)
-- Word Error Rate (WER)
+- Precision
+- Recall
+- F1 Score
 
 ## Results
 
@@ -59,7 +60,7 @@ To run the project, follow these steps:
 
 2. Install the required dependencies:
     ```bash
-pip install -r requirements.txt
+   pip install -r requirements.txt
 
 3. Run the Jupyter notebooks to preprocess the data, train the model, and evaluate the performance:
 jupyter notebook final.ipynb
